@@ -1,0 +1,24 @@
+import os
+os.system(cmd)
+
+subprocess
+#wmic useraccount where name='username' get sid
+#whoami /user
+
+get SID
+
+input(filename_ecp)
+
+находим sid с помощью regexp
+заменяем
+сохраняем
+запускаем рег файл
+
+
+pyinstaller  => exe
+
+--------------
+1. запустили скрипт
+2. ввели имя рег файла
+3. ...
+4. profit!!
